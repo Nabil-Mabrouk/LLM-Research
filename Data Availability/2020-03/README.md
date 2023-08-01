@@ -1,0 +1,21 @@
+## PhoBERT: Pre-trained language models for Vietnamese
+
+**Published Date:** 2020-03-02T10:21:17Z
+
+**Link:** http://arxiv.org/pdf/2003.00744v3
+
+**Abstract:**
+
+  We present PhoBERT with two versions, PhoBERT-base and PhoBERT-large, the
+first public large-scale monolingual language models pre-trained for
+Vietnamese. Experimental results show that PhoBERT consistently outperforms the
+recent best pre-trained multilingual model XLM-R (Conneau et al., 2020) and
+improves the state-of-the-art in multiple Vietnamese-specific NLP tasks
+including Part-of-speech tagging, Dependency parsing, Named-entity recognition
+and Natural language inference. We release PhoBERT to facilitate future
+research and downstream applications for Vietnamese NLP. Our PhoBERT models are
+available at https://github.com/VinAIResearch/PhoBERT
+
+
+---
+
